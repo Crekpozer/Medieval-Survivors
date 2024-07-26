@@ -12,4 +12,4 @@ Medieval Swords é um emocionante jogo de ação criado como parte do bootcamp S
 - Animação de sprites
 
 ## Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT.
