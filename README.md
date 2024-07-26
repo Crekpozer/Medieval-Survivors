@@ -1,7 +1,7 @@
-# Medieval Swords: Um Jogo de Ação Desenvolvido no Godot
+# Medieval Survivors: Um Jogo de Ação Desenvolvido no Godot
 
 ## Sobre o Projeto
-Medieval Swords é um emocionante jogo de ação criado como parte do bootcamp Santander 2024 - Criando Jogos com Godot. Explore ambientes medievais, derrote inimigos e mergulhe na aventura!
+Medieval Survivors é um emocionante jogo de ação criado como parte do bootcamp Santander 2024 - Criando Jogos com Godot. Explore ambientes medievais, derrote inimigos e mergulhe na aventura!
 
 ## Recursos Implementados
 - Movimento suave do personagem
